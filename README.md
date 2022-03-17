@@ -20,6 +20,5 @@ ____
 
 ____
 
-### For more Excel, Python R and SQL:
-[AlphaBench](https://alphabench.com)
+### For more Excel, Python R and SQL: [AlphaBench](https://alphabench.com)
 
